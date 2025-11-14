@@ -1,6 +1,6 @@
 # Trabalho-Escobar-Site
 
-- Requisito
+## Requisito
 - php 8.2
 - MySQL
 - Apache
