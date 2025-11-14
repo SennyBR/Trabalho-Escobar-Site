@@ -37,5 +37,5 @@
 <img width="1913" height="550" alt="Captura de tela 2025-11-14 180747" src="https://github.com/user-attachments/assets/9f70ad28-e328-44e6-b8b0-2bd41f45d32f" />
 
 - Peço perdão pelo html não conseguir fazer melhor e começo a dar erro muitos erros, só desisti.
-- Esse era para ser a base criada mas não conseguir manter por não entender CSS HMTL direito
+- Esse era para ser a base criada mas não conseguir manter por não entender CSS HMTL direito e IA não me ajudou muito.
   <img width="1401" height="601" alt="Captura de tela 2025-11-11 010851" src="https://github.com/user-attachments/assets/2c007a46-4a0d-4b65-a9fe-303a4a81212b" />
