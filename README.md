@@ -16,6 +16,9 @@
   - php artisan migrate
   - php artisan serve
 
+# Login Admin
+Usuario 
+
 <img width="1899" height="421" alt="Captura de tela 2025-11-14 181425" src="https://github.com/user-attachments/assets/96d5c50b-bc9a-4a83-baff-64446d6fe4d2" />
 <img width="1919" height="771" alt="Captura de tela 2025-11-14 181511" src="https://github.com/user-attachments/assets/0cf53101-5026-46f8-b204-05814cffd375" />
 <img width="1905" height="395" alt="Captura de tela 2025-11-14 180802" src="https://github.com/user-attachments/assets/04eb01b4-e935-4c30-8d76-c8b4110c4162" />
