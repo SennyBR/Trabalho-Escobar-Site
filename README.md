@@ -1,59 +1,33 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Requisito
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+- Php 8.2
+- Laravel 11
+- Apache
+- MySQL
 
-## About Laravel
+# Como Rodar
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- Use a função
+  - composer install
+- Abaixe o arquivo
+- Direcione para uma pasta chamada carro-de-orda
+- Adicione o DB em phpmyadmin
+- Após isso realizar a função
+  - php artisan migrate
+  - php artisan serve
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework. You can also check out [Laravel Learn](https://laravel.com/learn), where you will be guided through building a modern Laravel application.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<img width="1899" height="421" alt="Captura de tela 2025-11-14 181425" src="https://github.com/user-attachments/assets/96d5c50b-bc9a-4a83-baff-64446d6fe4d2" />
+<img width="1919" height="771" alt="Captura de tela 2025-11-14 181511" src="https://github.com/user-attachments/assets/0cf53101-5026-46f8-b204-05814cffd375" />
+<img width="1905" height="395" alt="Captura de tela 2025-11-14 180802" src="https://github.com/user-attachments/assets/04eb01b4-e935-4c30-8d76-c8b4110c4162" />
+<img width="1912" height="341" alt="Captura de tela 2025-11-14 180809" src="https://github.com/user-attachments/assets/263d4f99-ed1f-4c02-a2d9-ce8fd58f9763" />
+<img width="1907" height="405" alt="Captura de tela 2025-11-14 180839" src="https://github.com/user-attachments/assets/4b5d25ce-ab76-45ad-8063-556d54ccc641" />
+<img width="1919" height="818" alt="Captura de tela 2025-11-14 181824" src="https://github.com/user-attachments/assets/693b1c50-c587-469a-9fe3-c1c567713d41" />
+<img width="1909" height="406" alt="Captura de tela 2025-11-14 180719" src="https://github.com/user-attachments/assets/bde315ff-5f1b-4960-b818-491171e0c3aa" />
+<img width="1913" height="550" alt="Captura de tela 2025-11-14 180747" src="https://github.com/user-attachments/assets/26d26370-51fc-4862-afa0-8a94e5c3be35" />
+<img width="1907" height="385" alt="Captura de tela 2025-11-14 180628" src="https://github.com/user-attachments/assets/9e65f2e8-8b0b-4a0b-bb26-4d1578a000f0" />
+<img width="1906" height="841" alt="Captura de tela 2025-11-14 180637" src="https://github.com/user-attachments/assets/9da09062-b56f-438a-881d-6f627ba83aa7" />
+<img width="1919" height="328" alt="Captura de tela 2025-11-14 180648" src="https://github.com/user-attachments/assets/9c515394-e4c5-401d-81d0-d20fb1455329" />
+<img width="1911" height="433" alt="Captura de tela 2025-11-14 180658" src="https://github.com/user-attachments/assets/c1eec899-e7e5-42b2-ae80-51f6cc06dfe2" />
+<img width="1908" height="307" alt="Captura de tela 2025-11-14 180706" src="https://github.com/user-attachments/assets/bd6afd83-f212-414b-9460-06bff68bc3a6" />
+<img width="1909" height="406" alt="Captura de tela 2025-11-14 180719" src="https://github.com/user-attachments/assets/db3bfa32-866f-42f5-a30d-c80246748921" />
+<img width="1913" height="550" alt="Captura de tela 2025-11-14 180747" src="https://github.com/user-attachments/assets/9f70ad28-e328-44e6-b8b0-2bd41f45d32f" />
